@@ -46,7 +46,7 @@ public class TestCases {
         driver.quit();
 
     }
-
+//Python chrome -run.py
     public void testCase01() {
         System.out.println("Start Test case: testCase01");
         driver.get("https://calendar.google.com/ ");
